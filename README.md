@@ -4,7 +4,7 @@
 
 Um robô de automação visual para Windows, desenvolvido em Python, que utiliza captura de coordenadas para interagir com qualquer aplicação ou jogo. Esqueça seletores de CSS frágeis; este bot age como um ser humano, clicando e digitando exatamente onde você ensina.
 
-![Demonstração do SmartBot Pro](https://i.imgur.com/4o2xy4A.gif)
+![Demonstração do SmartBot Pro](https://i.imgur.com/0xBRm4P.gif)
 
 ---
 
